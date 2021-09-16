@@ -1,5 +1,5 @@
 /*
- Link:   https://leetcode.com/problems/array-nesting/
+ Link: https://leetcode.com/problems/array-nesting/
 */
 
 class Solution {
