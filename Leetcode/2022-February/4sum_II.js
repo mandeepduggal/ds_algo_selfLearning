@@ -1,6 +1,6 @@
 /**
  * Leetcode-02/03/2022
- * Link: https://leetcode.com/problems/4sum-ii/
+ * {@link https://leetcode.com/problems/4sum-ii/}
  * @param {number[]} nums1
  * @param {number[]} nums2
  * @param {number[]} nums3
